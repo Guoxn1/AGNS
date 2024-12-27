@@ -1,0 +1,14 @@
+Collision Ratio:
+0.0
+P-avg on observed trajectories:
+nan
+
+--------------------END OF CHECKPOINT(gone 50 / total 3146 scenes--------------------
+
+Collision Ratio:
+0.0
+P-avg on observed trajectories:
+nan
+
+--------------------END OF CHECKPOINT(gone 100 / total 3146 scenes--------------------
+

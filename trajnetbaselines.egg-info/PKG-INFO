@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: trajnetbaselines
+Version: 0.1.0
+Summary: S-ATTack
+Home-page: https://github.com/vita-epfl/s-attack
+Author: VITA
+Author-email: 
+License: MIT
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Dist: numpy
+Requires-Dist: pykalman
+Requires-Dist: python-json-logger
+Requires-Dist: scipy
+Requires-Dist: torch==1.6.0
+Requires-Dist: trajnetplusplustools
+Requires-Dist: pysparkling
+Requires-Dist: joblib
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: torchvision==0.7.0
+Requires-Dist: tqdm
+Provides-Extra: test
+Requires-Dist: pylint; extra == "test"
+Requires-Dist: pytest; extra == "test"
+Provides-Extra: plot
+Requires-Dist: matplotlib; extra == "plot"
